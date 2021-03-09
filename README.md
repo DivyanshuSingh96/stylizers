@@ -49,3 +49,11 @@ To install this library in your PC you just have to follow the instructions give
 
 Bravo, we've installed this library in our PC.
 Now, just go and play with it in your `Python IDE`.
+
+# GitHub Links
+
+#### My Profile Link
+[Divyanshu Singh](https://github.com/DivyanshuSingh96)
+
+#### Repository Link
+[stylizer](https://github.com/DivyanshuSingh96/stylizer)
