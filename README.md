@@ -50,6 +50,9 @@ To install this library in your PC you just have to follow the instructions give
 Bravo, we've installed this library in our PC.
 Now, just go and play with it in your `Python IDE`.
 
+> Python is a very beautiful, easy and powerful language that anyone could understand.
+> Mastering in Python is much easier than other languages.
+
 # GitHub Links
 
 #### My Profile Link
