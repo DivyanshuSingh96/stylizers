@@ -34,6 +34,8 @@ The parameters of this function are:
 * emoji_center: The Emoji which is used to style your alphabet character.
 * emoji_outer: The Emoji which is used to style the border.
 
+**To experiment with the name style use `styeriment()` function and for default style use `stylo()` function.**
+
 # Requirements
 
 1. Python version should be 3.0+.
@@ -60,3 +62,5 @@ Now, just go and play with it in your `Python IDE`.
 
 #### Repository Link
 [stylizer](https://github.com/DivyanshuSingh96/stylizer)
+
+Made with 🐍 by Divyanshu Singh
