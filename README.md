@@ -1,4 +1,4 @@
-# stylizer
+# stylizers
 
 ### An Extraordinary Styling Library
 
@@ -9,9 +9,9 @@ This library is used to style your beautiful into an extraordinary styled name.
 To use this library the following sample code is given below
 
 ```
-import stylizer
+import stylizers
 
-style_name = stylizer.stylo("Divyanshu")
+style_name = stylizers.stylo("Divyanshu")
 print(style_name)
 ```
 
@@ -21,9 +21,9 @@ It uses the default style. The parameter of this function is your name.
 To customise your name the following sample code is given below:
 
 ```
-import stylizer
+import stylizers
 
-custom_name = stylizer.styeriment("Divyanshu", "🐍", "🐯", "🏵️")
+custom_name = stylizers.styeriment("Divyanshu", "🐍", "🐯", "🏵️")
 print(custom_name)
 ```
 
@@ -47,7 +47,7 @@ To install this library in your PC you just have to follow the instructions give
 
 1. First open your `command prompt` for Windows 10 users open your `PowerShell`.
 2. It must that Python is installed in your PC and Path variable in the environment.
-3. To install it write `pip install stylizer` in your command prompt. It takes few seconds in the installation process.
+3. To install it write `pip install stylizers` in your command prompt. It takes few seconds in the installation process.
 
 Bravo, we've installed this library in our PC.
 Now, just go and play with it in your `Python IDE`.
@@ -61,6 +61,6 @@ Now, just go and play with it in your `Python IDE`.
 [Divyanshu Singh](https://github.com/DivyanshuSingh96)
 
 #### Repository Link
-[stylizer](https://github.com/DivyanshuSingh96/stylizer)
+[stylizers](https://github.com/DivyanshuSingh96/stylizers)
 
 Made with 🐍 by Divyanshu Singh
