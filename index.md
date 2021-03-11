@@ -1,37 +1,66 @@
-## Welcome to GitHub Pages
+# stylizers
 
-You can use the [editor on GitHub](https://github.com/DivyanshuSingh96/stylizers/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### An Extraordinary Styling Library
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This library is used to style your beautiful into an extraordinary styled name.
 
-### Markdown
+# Usage
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+To use this library the following sample code is given below
 
-```markdown
-Syntax highlighted code block
+```
+import stylizers
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+style_name = stylizers.stylo("Divyanshu")
+print(style_name)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Here we've used the function `stylo()` which will styled your name.
+It uses the default style. The parameter of this function is your name.
 
-### Jekyll Themes
+To customise your name the following sample code is given below:
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DivyanshuSingh96/stylizers/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+```
+import stylizers
 
-### Support or Contact
+custom_name = stylizers.styeriment("Divyanshu", "🐍", "🐯", "🏵️")
+print(custom_name)
+```
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Here we've used the function `styeriment()`
+The parameters of this function are:
+* your_name
+* emoji_inner: The Emoji which is used to style the background.
+* emoji_center: The Emoji which is used to style your alphabet character.
+* emoji_outer: The Emoji which is used to style the border.
+
+**To experiment with the name style use `styeriment()` function and for default style use `stylo()` function.**
+
+# Requirements
+
+1. Python version should be 3.0+.
+2. pip should be updated to the latest version. To upgrade pip use `pip install --upgrade pip`.
+
+# Installation
+
+To install this library in your PC you just have to follow the instructions given below:
+
+1. First open your `command prompt` for Windows 10 users open your `PowerShell`.
+2. It must that Python is installed in your PC and Path variable in the environment.
+3. To install it write `pip install stylizers` in your command prompt. It takes few seconds in the installation process.
+
+Bravo, we've installed this library in our PC.
+Now, just go and play with it in your `Python IDE`.
+
+> Python is a very beautiful, easy and powerful language that anyone could understand.
+> Mastering in Python is much easier than other languages.
+
+# GitHub Links
+
+#### My Profile Link
+[Divyanshu Singh](https://github.com/DivyanshuSingh96)
+
+#### Repository Link
+[stylizers](https://github.com/DivyanshuSingh96/stylizers)
+
+Made with 🐍 by Divyanshu Singh
