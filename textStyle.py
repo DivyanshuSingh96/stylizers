@@ -413,9 +413,9 @@ def stylo(name):
     
     The Sample Code is given below:
     
-    import stylizer
+    import stylizers
     
-    style_name = stylizer.stylo("Divyanshu")
+    style_name = stylizers.stylo("Divyanshu")
     print(style_name)
     
     Made with 🐍 by Divyanshu Singh
@@ -451,9 +451,9 @@ def styeriment(name, emoji_inner, emoji_num, emoji_outer):
     
     The Sample Code is given below:
     
-    import stylizer
+    import stylizers
     
-    custom_name = stylizer.styeriment("Divyanshu", "🐍", "🐯", "🏵️")
+    custom_name = stylizers.styeriment("Divyanshu", "🐍", "🐯", "🏵️")
     print(custom_name)
     
     Made with 🐍 by Divyanshu Singh
