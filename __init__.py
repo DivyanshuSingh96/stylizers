@@ -1,1 +1,1 @@
-from stylizer import *
+from stylizer.textStyle import *
