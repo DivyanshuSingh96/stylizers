@@ -1,4 +1,4 @@
-# stylizers
+# stylizers - [![PyPI Downloads](https://static.pepy.tech/badge/stylizers)](https://pepy.tech/projects/stylizers)
 
 ### An Extraordinary Styling Library
 
